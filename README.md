@@ -1,5 +1,5 @@
 # elevador_poo_cplusplus
-Pequeno projetinho para estudo de Orientação a Objetos em C++
+Pequeno projetinho de estudo em Orientação a Objetos com C++
 
 * Abordei nesse simples projeto os seguintes conteúdos de Programação Orientada a Objetos:
 
