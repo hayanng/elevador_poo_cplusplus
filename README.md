@@ -1,11 +1,13 @@
 # elevador_poo_cplusplus
 Pequeno projetinho para estudo de Orientação a Objetos em C++
 
-Abordei nesse simples projeto os seguintes conteúdos de Programação Orientada a Objetos
+* Abordei nesse simples projeto os seguintes conteúdos de Programação Orientada a Objetos:
 
 {
 
 	Classe;
+	
+	Objeto;
 	
 	Atributos;
 	
@@ -15,4 +17,6 @@ Abordei nesse simples projeto os seguintes conteúdos de Programação Orientada
 	
 }
 
-Apliquei no conceito de um elevador.
+* Apliquei no conceito de um elevador.
+
+* By @hayanngs
